@@ -1,0 +1,1 @@
+# Gezinomi_Rule_Based_Customer_Segmantation
